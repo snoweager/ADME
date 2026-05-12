@@ -1,0 +1,6 @@
+{
+  "name": "ADME-Bot",
+  "description": "Pharmaceutical drug safety analysis chatbot using molecular data and AI. Get full ADMET profiles for any medicine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
